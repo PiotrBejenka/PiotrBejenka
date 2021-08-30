@@ -1,4 +1,18 @@
-### Hi there <!--👋--> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
+## Hi there, welcome on my github profile <!--👋--> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
+
+### I'm Piotr Bejenka
+
+Trainee DevOps Engineer 
+</br>
+Student at Gdańsk University of Technology
+
+I'm currently learning:
+- Docker
+- Kubernetes
+- Terraform
+- Bash
+
+
 
 <!--
 **PiotrBejenka/PiotrBejenka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
