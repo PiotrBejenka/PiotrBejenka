@@ -6,7 +6,7 @@ Trainee DevOps Engineer
 </br>
 Student at Gdańsk University of Technology
 
-I'm currently learning:
+### I'm currently learning:
 - Docker
 - Kubernetes
 - Terraform
