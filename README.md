@@ -10,6 +10,7 @@ Student at Gdańsk University of Technology
 - Docker
 - Kubernetes
 - Terraform
+- AWS
 - Bash
 
 ### Have a look at my repos:
