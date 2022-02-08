@@ -2,7 +2,7 @@
 
 ### I'm Piotr Bejenka
 
-Trainee DevOps Engineer 
+Junior DevOps Engineer 
 </br>
 Student at Gdańsk University of Technology
 
