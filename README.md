@@ -6,7 +6,7 @@ Junior DevOps Engineer
 </br>
 Student at Gdańsk University of Technology
 
-### Here you can find some of my projects created during my BA and MSc studies at Gdańsk University of Technology and a few written in my free time in case of learning new technologies.
+### Here you can find some of my projects created during my BSc and MSc studies at Gdańsk University of Technology and a few written in my free time in case of learning new technologies.
 <!-- ### Most important for me are:
 - CPP: 
   -  https://github.com/PiotrBejenka/Snake  - https://github.com/PiotrBejenka/Files_Processing - my first projects written during first semester of studies. Gave me a lot of fun, satisfaction and made me passionate into programming.
