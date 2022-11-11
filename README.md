@@ -2,7 +2,7 @@
 
 ### I'm Piotr Bejenka
 
-Junior DevOps Engineer 
+Junior Cloud DevOps Engineer 
 </br>
 Student at Gdańsk University of Technology
 
@@ -14,7 +14,7 @@ Student at Gdańsk University of Technology
   - https://github.com/PiotrBejenka/Base_Computer_Software
   - https://github.com/PiotrBejenka/On-board_Computer_Software
 - Micropython & RPi Pico:
-  - https://github.com/PiotrBejenka/Remote_Control <!-- - the project prepared as a final project at Embedded System Development subject. Containc wireless comunication beetwen 2 microcontollers (RPi Pico's) -->
+  - https://github.com/PiotrBejenka/Remote_Control <!-- - the project prepared as a final project at Embedded System Development subject. Contains wireless comunication beetwen 2 microcontollers (RPi Pico's) -->
 <!-- - Sample of another languages: -->
 <!-- - Matlab:
   -  https://github.com/PiotrBejenka/Radial_Network -->
