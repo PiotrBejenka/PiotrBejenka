@@ -2,7 +2,7 @@
 
 ### I'm Piotr Bejenka
 
-Jr Cloud DevOps Engineer 
+Cloud DevOps Engineer 
 </br>
 Student at Gdańsk University of Technology
 
